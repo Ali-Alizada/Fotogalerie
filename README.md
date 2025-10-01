@@ -1,6 +1,6 @@
 # Mein Fotogramm-Projekt
 
-Willkommen zu meinem ersten Projekt auf GitHub!  
+Willkommen zu meinem Fotogram Projekt auf GitHub!  
 Dieses kleine Projekt ist eine "Fotogalerie mit Pop-up Ansicht", Navigation (vor/zurück) und einem Schließen-Button.  
 Ich habe es mit "HTML, CSS und JavaScript" umgesetzt, um mehr über DOM-Manipulation und responsive Gestaltung zu lernen.
 
